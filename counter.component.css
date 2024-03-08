@@ -1,0 +1,10 @@
+.counter {
+    display: inline-block;
+    padding: 10px;
+    background-color: #f0b2d8c4;
+    border-radius: 8px;
+  }
+  button {
+    margin: 7px;
+    background-color: #b2f0d7f5;
+  }
